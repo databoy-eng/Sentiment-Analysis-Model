@@ -1,7 +1,8 @@
 
 # Creating a Sentiment Analysis Web App
-## Using PyTorch and SageMaker
 ## By Manuel Quijada
+## Using PyTorch and SageMaker
+
 
 _Deep Learning Program | Deployment_
 
